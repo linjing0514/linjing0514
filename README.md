@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning 
     - Angular, React
-    - Spring Boot
+    - MongoDb, Express js, Node js
 - 💞️ I’m looking to collaborate on the application that helps people to conquer the algorithm monster with the data structure weapon, lol.
 - 📫 You can reach me by sending me an email, linjing0514@gmail.com
 
